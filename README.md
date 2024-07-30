@@ -1,6 +1,6 @@
 ## Filament CPP Hello World Example
 
-This example demonstrates how to use the Google's Filament rendering in a fresh C++ project.
+This example demonstrates how to use the Google's Filament rendering library in a fresh C++ project.
 
 ### Getting Started
 
